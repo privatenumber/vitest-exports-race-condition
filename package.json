@@ -1,0 +1,11 @@
+{
+	"type": "module",
+	"devDependencies": {
+		"vite-node": "^3.1.1"
+	},
+	"scripts": {
+		"start": "vite-node src/a.js",
+		"working": "node src/a.js"
+	},
+	"packageManager": "pnpm@9.15.4"
+}
